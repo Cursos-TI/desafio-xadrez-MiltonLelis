@@ -57,6 +57,7 @@ Agora que já conseguimos mover as peças mais simples usando loops, os desenvol
 **Movimentação do Cavalo:**
 
 Mover o cavalo em L utilizando loops aninhados.
+- Cavalo: 2 casas para a baixo e 1 casa para a esquerda
 Obs: É obrigatório o uso de loops aninhados.
 
 ### 🥇 Nível Mestre
